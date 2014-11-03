@@ -1,0 +1,7 @@
+destination: _site
+
+keep_files: [".git"]
+markdown_ext: "md"
+
+markdown: kramdown
+highlighter: pygments
