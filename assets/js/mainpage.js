@@ -11,7 +11,7 @@ window.addEventListener('hashchange', function() {
         document.getElementById('pages').style.setProperty('display', 'block');
 
         // Update the current page (leak the variable to global scope)
-        _currentpage = document.getElementById(location.hash.substring(1));
+        _currentpage = document.getElementsByName(location.hash.substring(1))[0];
 
         // Show the current page
         _currentpage.style.setProperty('display', 'block');
