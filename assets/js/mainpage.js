@@ -24,5 +24,13 @@ window.addEventListener('hashchange', function() {
 });
 
 window.addEventListener('load', function() {
+    var anchors = document.getElementsByTagName('a');
+    for(i = 0, len=anchors.length; i<len; i++){
+        anchors[i].addEventListener('click', function(e) {
+            location.hash = e.target.hash.substring(1);
+            e.preventDefault();
+        });
+    }
+
     window.dispatchEvent(new HashChangeEvent('hashchange'));
 });
