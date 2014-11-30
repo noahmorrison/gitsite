@@ -16,10 +16,10 @@ window.addEventListener('hashchange', function() {
         // Show the current page
         _currentpage.style.setProperty('display', 'block');
 
-    // The hash didn't have data so we're going hide the page
+    // The hash didn't have data so we're going to show my resume
     } else {
         // Hide the pages (and the background)
-        document.getElementById('pages').style.setProperty('display', 'none');
+        location.hash = 'resume';
     }
 });
 
