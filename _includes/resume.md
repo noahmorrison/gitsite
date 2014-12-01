@@ -1,3 +1,24 @@
+Noah Morrison
+-------------
+I am a sophomore high school student looking for experience
+in Software Engineering.
+
+Coding has been my passion since I learned python a few summers ago.
+
+My idea of fun is picking a language or tool that people deem as hard
+and learning it just to prove I can.
+Haskell, Common lisp, and ed are some examples of this. Do hard things, right?
+
+Contact
+-------
+
+#### email: ####
+    noah@morrison.ph
+
+#### website: ####
+    noah.morrison.ph
+
+
 Projects
 --------
 
@@ -7,7 +28,7 @@ A rendering engine for the mustache templating language (http://mustache.github.
 Faster then the other popular implementations in python,
 and most importantly it's spec compliant.
 
-https://github.com/noahmorrison/chevron
+    https://github.com/noahmorrison/chevron
 
 
 #### wmup -- python ####
@@ -15,23 +36,42 @@ https://github.com/noahmorrison/chevron
 A custom post uploader for wordpress powered websites.
 It is powered by a simple configuration file and executable scripts.
 
-https://github.com/noahmorrison/wmup
+    https://github.com/noahmorrison/wmup
 
 
 #### haskoban -- haskell ####
 
 Sokoban written in haskell with editable levels and a simple terminal interface
 
-https://github.com/noahmorrison/haskoban
+    https://github.com/noahmorrison/haskoban
 
 
 #### surs -- rust ####
 
-A sudoko solver written in rust. A brand new project that currently only loads
+A sudoku solver written in rust. A brand new project that currently only loads
 boards and doesn't actually solve them. Although I have written a solver in python before.
 
-https://github.com/noahmorrison/surs
+    https://github.com/noahmorrison/surs
 
+
+#### Tri-state Baptist Church -- wordpress/php ####
+
+I have done some work on Tri-state Baptist Church's
+website (powered by wordpress).
+Adding images to series and fixing some bugs.
+I also upload the sermons to the website (hence wmup).
+
+    http://tristatebaptist.org/
+    https://github.com/noahmorrison/tsbc-glory
+
+#### Home server management -- Raspberry Pi/arch linux ####
+
+I have installed arch linux ARM on a raspberry pi and use it to backup
+our pictures and other media files using syncthing.
+
+    http://www.raspberrypi.org/
+    http://archlinuxarm.org/
+    http://syncthing.net/
 
 Languages
 ---------
@@ -50,12 +90,16 @@ Languages
     * CSS
     * Javascript
     * TypeScript
-    * CoffeScript
+    * CoffeeScript
 
 * The C family
     * C
     * C++
     * C# (via mono as I'm on a linux machine)
+
+* Common lisp (using the CLISP interpreter)
+
+* php
 
 * Java
 
@@ -72,6 +116,8 @@ Tools
 * Regex
 
 * Git
+
+* Jekyll
 
 
 Editors
