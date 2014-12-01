@@ -3,7 +3,7 @@ Noah Morrison
 I am a sophomore high school student looking for experience
 in Software Engineering.
 
-Coding has been my passion since I learned python a few summers ago.
+Coding has been my passion since I learned Python a few summers ago.
 
 My idea of fun is picking a language or tool that people deem as hard
 and learning it just to prove I can.
@@ -22,16 +22,16 @@ Contact
 Projects
 --------
 
-#### chevron -- python ####
+#### chevron -- Python ####
 
 A rendering engine for the mustache templating language (http://mustache.github.io)
-Faster then the other popular implementations in python,
+Faster then the other popular implementations in Python,
 and most importantly it's spec compliant.
 
     https://github.com/noahmorrison/chevron
 
 
-#### wmup -- python ####
+#### wmup -- Python ####
 
 A custom post uploader for wordpress powered websites.
 It is powered by a simple configuration file and executable scripts.
@@ -39,22 +39,22 @@ It is powered by a simple configuration file and executable scripts.
     https://github.com/noahmorrison/wmup
 
 
-#### haskoban -- haskell ####
+#### haskoban -- Haskell ####
 
-Sokoban written in haskell with editable levels and a simple terminal interface
+Sokoban written in Haskell with editable levels and a simple terminal interface
 
     https://github.com/noahmorrison/haskoban
 
 
-#### surs -- rust ####
+#### surs -- Rust ####
 
-A sudoku solver written in rust. A brand new project that currently only loads
-boards and doesn't actually solve them. Although I have written a solver in python before.
+A sudoku solver written in Rust. A brand new project that currently only loads
+boards and doesn't actually solve them. Although I have written a solver in Python before.
 
     https://github.com/noahmorrison/surs
 
 
-#### Tri-state Baptist Church -- wordpress/php ####
+#### Tri-state Baptist Church -- Wordpress/PHP ####
 
 I have done some work on Tri-state Baptist Church's
 website (powered by wordpress).
@@ -64,9 +64,9 @@ I also upload the sermons to the website (hence wmup).
     http://tristatebaptist.org/
     https://github.com/noahmorrison/tsbc-glory
 
-#### Home server management -- Raspberry Pi/arch linux ####
+#### Home server management -- Raspberry Pi/Arch Linux ####
 
-I have installed arch linux ARM on a raspberry pi and use it to backup
+I have installed Arch Linux ARM on a Raspberry Pi and use it to backup
 our pictures and other media files using syncthing.
 
     http://www.raspberrypi.org/
@@ -99,7 +99,7 @@ Languages
 
 * Common lisp (using the CLISP interpreter)
 
-* php
+* PHP
 
 * Java
 
