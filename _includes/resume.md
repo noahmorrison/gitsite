@@ -12,7 +12,9 @@ Haskell, Common lisp, and ed are some examples of this. Do hard things, right?
 Availability
 ------------
 I can work three days out of Monday, Tuesday, Thursday, and Friday
-during school weeks. And Monday through Friday on school breaks.
+during school weeks.
+
+And every day from Monday to Friday on school breaks.
 
 I can work 6 hour days during school,
 and 8 hour days on school break.
