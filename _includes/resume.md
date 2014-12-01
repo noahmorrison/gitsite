@@ -1,6 +1,6 @@
 Noah Morrison
 -------------
-I am a sophomore high school student looking for experience
+I am a 16 year old high school student, and looking for experience
 in Software Engineering.
 
 Coding has been my passion since I learned Python a few summers ago.
@@ -8,6 +8,15 @@ Coding has been my passion since I learned Python a few summers ago.
 My idea of fun is picking a language or tool that people deem as hard
 and learning it just to prove I can.
 Haskell, Common lisp, and ed are some examples of this. Do hard things, right?
+
+Availability
+------------
+I can work three days out of Monday, Tuesday, Thursday, and Friday
+during school weeks. And Monday through Friday on school breaks.
+
+I can work 6 hour days during school,
+and 8 hour days on school break.
+
 
 Contact
 -------
