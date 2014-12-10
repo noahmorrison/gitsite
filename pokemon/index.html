@@ -1,10 +1,8 @@
 ---
 layout: default
-title: noah.morrison pokemon
+title: pokemon
 ---
 
-{% include header.html %}
-
-<div id="pages">
-    pokemon
-</div>
+{% directory path: /assets/img/pokemon %}
+    <img src="/assets/img/pokemon/{{ file.name }}"></img>
+{% enddirectory %}
