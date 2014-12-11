@@ -1,8 +1,30 @@
 ---
 layout: default
 title: pokemon
+pokemon:
+    - piplup
+    - eevee
+    - trekco
+    - cubone
+    - snivy
+    - charmander
+    - pancham
+    - drowzee
+    - raikou
 ---
 
-{% directory path: /assets/img/pokemon %}
-    <img src="/assets/img/pokemon/{{ file.name }}"></img>
-{% enddirectory %}
+<span>
+These are pokemon that I have drawn.
+They are displayed in the order that I drew them.
+</span>
+<span style="font-size: 80%; font-style: italic; float: right;">
+I do plan on cleaning them up a bit.
+</span>
+
+<hr>
+
+{% for name in page.pokemon %}
+<div class="pokemon">
+    <img title="{{ name }}" src="/assets/img/pokemon/{{ name }}.jpg"></img>
+</div>
+{% endfor %}
