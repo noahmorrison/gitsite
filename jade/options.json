@@ -1,0 +1,27 @@
+{
+    "basedir": "jade",
+    "pokemon": [
+        "piplup",
+        "eevee",
+        "trekco",
+        "cubone",
+        "snivy",
+        "charmander",
+        "pancham",
+        "drowzee",
+        "raikou",
+        "chespin",
+        "grimer",
+        "inkey",
+        "voltorb",
+        "snorunt",
+        "larvitar",
+        "budew",
+        "cyndaquil",
+        "sunkern",
+        "luvdisc",
+        "psyduck",
+        "horsea",
+        "squirtle"
+    ]
+}

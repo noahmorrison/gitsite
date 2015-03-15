@@ -1,0 +1,12 @@
+extends /templates/default.jade
+
+block content
+  span
+    | These are pokemon that I have drawn.
+    | They are displayed in the order that I drew them.
+  span(style="font-size: 80%; font-style: italic; float: right;")
+    | I do plan on cleaning them up a bit.
+  hr
+  for poke in pokemon
+    div(class="pokemon")
+      img(title=poke, src="/assets/img/pokemon/" + poke + ".jpg")
