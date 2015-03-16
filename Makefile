@@ -1,6 +1,6 @@
 # site variables
 port = 7505
-exclude = Makefile $(shell find jade)
+exclude = Makefile $(shell find jade) $(shell find .git) .gitignore
 output_dir = ./site
 
 # compilers
