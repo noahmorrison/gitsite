@@ -1,6 +1,7 @@
 # site variables
 port = 7505
 exclude = Makefile $(shell find jade) $(shell find .git) .gitignore
+keep = .git
 output_dir = ./site
 
 # compilers
@@ -58,4 +59,7 @@ server: site
 
 .PHONY: clean
 clean:
-	rm -r -f $(output_dir)
+	find $(output_dir)\
+    | grep -v ^$(output_dir)$$\
+    | grep -v $(keep)\
+    | xargs rm -fr
