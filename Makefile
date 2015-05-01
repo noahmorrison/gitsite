@@ -55,7 +55,7 @@ $(output_dir): $(html) $(css) $(js) $(other)
 
 .PHONY: server
 server: site
-	static -p $(port) $(output_dir)
+	static-server -p $(port) $(output_dir)
 
 .PHONY: clean
 clean:
